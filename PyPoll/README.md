@@ -4,7 +4,7 @@ The Election Data Analysis script reads election data from a CSV file and perfor
 
 ## Prerequisites
 - Install Python on your device. You can download Python from python.org. 
-- Locate CSV file named `election_data.csv`. The CSV file should have a structure where each row represents a vote, and the candidate names are stored in a specific column. The CSV is loated in the Resources folder.
+- Locate CSV file named `election_data.csv`. The CSV file should have a structure where each row represents a vote, and the voter ID, the candidate names and thecounty are stored in a specific column. The CSV is loated in the Resources folder.
 
 ## Files
 - main.py: The Python script for financial analysis.
