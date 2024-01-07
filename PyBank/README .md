@@ -34,7 +34,7 @@ The script will generate a summary report with the following financial metrics:
 -	Greatest Increase in Profits (with corresponding date)
 -	Greatest Decrease in Profits (with corresponding date)
 
- Feel free to customize the script or incorporate it into your financial analysis.
+Feel free to customize the script or incorporate it into your financial analysis.
 
 
 
