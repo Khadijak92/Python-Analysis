@@ -30,3 +30,4 @@ The script generates a summary of the election results, printing the following i
 - Percentage of Votes for Each Candidate
 - Winner
 
+# Feel free to customize the script or incorporate it into your budget analysis.
