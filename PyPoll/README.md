@@ -20,3 +20,13 @@ The Election Data Analysis script reads election data from a CSV file and perfor
 
 3. Run the Script
 - main.py
+
+The script will read the CSV file, perform financial analysis and print the results. Navigate to the Analysis folder to locate an example of the financaial analysis results.
+
+# Output:
+The script generates a summary of the election results, printing the following information:
+
+- Total Votes
+- Percentage of Votes for Each Candidate
+- Winner
+
